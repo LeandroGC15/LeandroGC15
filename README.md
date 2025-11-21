@@ -1,110 +1,97 @@
-<div align="center">
-  <img src="URL_DE_TU_IMAGEN_AQUI" 
-       alt="Leandro Garcia" 
-       width="180" 
-       style="border-radius: 50%; margin-bottom: 20px;" />
-</div>
+# 👋 Hola, soy **Leandro García**
 
-<h1 align="center">👋 ¡Hola! Soy Leandro Garcia</h1>
+### 💻 FullStack Developer | Mobile | Backend | HealthTech
 
-<p align="center">
-  Desarrollador Full Stack · React · Next.js · NestJS · Python · React Native · IA  
+Desarrollador con experiencia en aplicaciones web, móviles y sistemas de salud (GNUHealth).  
+Me encanta construir soluciones modernas, escalables y con buen rendimiento.  
+Actualmente explorando **Golang**, automatización, APIs y arquitectura de software.
+
+---
+
+# 🛠️ Tecnologías que uso
+
+### 🚀 Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=go" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=next" />
+  <img src="https://skillicons.dev/icons?i=astro" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=html" />
+</p>
+
+### 🧩 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nestjs" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=django" />
+</p>
+
+### 🗄️ Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+### ⚙️ DevOps / Infra / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=grafana" />
+  <img src="https://skillicons.dev/icons?i=prometheus" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=vim" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+# 👤 Sobre mí
 
-Soy **Desarrollador de Software** con ~2 años de experiencia construyendo soluciones web, backend y móviles.  
-He trabajado en proyectos reales dentro del sector salud integrados con **GNUHealth**, además de sistemas de pedidos, testing de performance y aplicaciones multiplataforma.
-
-Me caracterizo por ser autodidacta, proactivo y orientado a entregar software robusto y escalable.
-
----
-
-# 🧠 Tech Stack
-
-### 📦 Lenguajes
-Python · JavaScript · TypeScript · Go
-
-### ⚛ Frontend
-React.js · Next.js · React Native
-
-### 🔥 Backend
-FastAPI · Django · Node.js · Express · Nest.js · GraphQL
-
-### 🛢 Bases de datos
-PostgreSQL · MySQL · SQLite · MongoDB · Firebase
-
-### ⚙ DevOps / Herramientas
-Git · GitLab · PM2 · Android Studio  
-Supabase · Railway · Render · Vercel · Firebase
-
-### 🤖 IA / LLMs
-Ollama · LiteLLM · Cursor · Windsurf · Integración IA en aplicaciones
+- 🇻🇪 Vivo en Venezuela  
+- 📧 Contacto: **leacamacho2002@gmail.com**  
+- 🏥 Experiencia laboral en **GNUHealth / Sicalis / Apps médicas**  
+- 📱 Desarrollo móvil con **React Native**  
+- 🔬 Testing y rendimiento: **JMeter, K6, Taurus**  
+- 🔥 Me interesa todo lo relacionado a **backend, mobile, automatización, IA aplicada**  
+- 🤝 Abierto a colaborar en proyectos web, mobile o sistemas médicos  
 
 ---
 
-# 🏢 Experiencia Profesional
+# 📊 Estadísticas de GitHub
 
-## 🔵 Sistemas Tecnológicos Alcaraván (2023 – Actualidad)
-### **GNUHealth / Sicalis — Cliente Web**
-- Desarrollo frontend + backend para gestión de citas, laboratorio e imagenología.  
-- Diseño de UI/UX y flujo de datos optimizado.  
-- Integración completa con servicios GNUHealth.
+> Reemplaza `TU_USUARIO` por tu usuario de GitHub: **LeandroLG15**
 
-### **Sicalis — App Móvil (React Native)**
-- Desarrollo de app multiplataforma replicando el cliente web.  
-- Manejo de acceso móvil a historia médica, citas y exámenes.  
-- Desarrollo completo: UI, lógica, consumo de API.
+### ⭐ Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=LeandroLG15&show_icons=true&theme=tokyonight)
 
----
+### 🔥 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLG15&layout=compact&theme=tokyonight)
 
-## 🟣 Orion.dev (Abr 2024 – Oct 2024)
-### **Sistema de Gestión de Pedidos**
-- APIs REST en Python con 95% de cobertura en pytest.  
-- Integración con sistemas de pago y notificaciones.  
-- Pruebas de carga con JMeter para alta concurrencia.
+### ⚡ Racha de contribuciones
+![Streak](https://streak-stats.demolab.com?user=LeandroLG15&theme=tokyonight)
 
 ---
 
-# 🎯 Proyecto Destacado
+# 🌐 Redes sociales
 
-### 🟡 **Sistema de Gestión de Rifas**
-Plataforma full stack para crear rifas digitales con:
-- Generación de boletos  
-- Selección automática del ganador  
-- Panel con auditoría completa  
-- Informes y estadísticas de participación  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com)  
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com)
 
 ---
 
-# 🎓 Educación
-**Ingeniería Informática**  
-Universidad Rómulo Gallegos — (Graduación: 2026)
-
----
-
-# 🌍 Idiomas
-- Español (Nativo)  
-- Inglés (Conversacional)
-
----
-
-# 📊 GitHub Metrics Dashboard
-
-> 💡 Para activar estas métricas, solo añade el workflow que te dejo abajo.
-
-![Metrics](https://raw.githubusercontent.com/LeandroGC15/LeandroGC15/main/github-metrics.svg)
-
----
-
-# 📬 Contacto
-
-- Email: **leacamacho2002@gmail.com**  
-- LinkedIn: *(pendiente de agregar)*  
-- GitHub: **LeandroGC15**
-
----
-
-<h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
+⭐ Si quieres te hago una **versión aún más PRO** con:  
+- Banner personalizado  
+- Sección de proyectos destacados  
+- Badges animados  
+- GitHub Metrics avanzada  
