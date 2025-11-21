@@ -45,5 +45,4 @@ Actualmente profundizando en **Golang**, automatización, arquitectura backend e
 # 🌐 Redes sociales
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com)  
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com)
 
