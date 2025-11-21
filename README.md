@@ -3,83 +3,42 @@
 ### 💻 FullStack Developer | Mobile | Backend | HealthTech
 
 Desarrollador con experiencia en aplicaciones web, móviles y sistemas de salud (GNUHealth).  
-Me encanta construir soluciones modernas, escalables y con buen rendimiento.  
-Actualmente explorando **Golang**, automatización, APIs y arquitectura de software.
+Apasionado por crear software moderno, escalable y eficiente.  
+Actualmente profundizando en **Golang**, automatización, arquitectura backend e IA aplicada.
 
 ---
 
-# 🛠️ Tecnologías que uso
+# 🛠️ Tecnologías
 
-### 🚀 Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=go" />
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=next" />
-  <img src="https://skillicons.dev/icons?i=astro" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=html" />
-</p>
-
-### 🧩 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=nestjs" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-  <img src="https://skillicons.dev/icons?i=django" />
-</p>
-
-### 🗄️ Bases de datos
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-</p>
-
-### ⚙️ DevOps / Infra / Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=grafana" />
-  <img src="https://skillicons.dev/icons?i=prometheus" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=vim" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,react,next,astro,css,html,nodejs,nestjs,fastapi,django,postgres,mysql,sqlite,firebase,docker,linux,grafana,prometheus,git,androidstudio,vim" />
 </p>
 
 ---
 
 # 👤 Sobre mí
 
-- 🇻🇪 Vivo en Venezuela  
+- 🇻🇪 Resido en **Venezuela**  
 - 📧 Contacto: **leacamacho2002@gmail.com**  
-- 🏥 Experiencia laboral en **GNUHealth / Sicalis / Apps médicas**  
+- 🏥 Experiencia trabajando con **GNUHealth**, sistemas médicos, Sicalis (web & mobile)  
 - 📱 Desarrollo móvil con **React Native**  
-- 🔬 Testing y rendimiento: **JMeter, K6, Taurus**  
-- 🔥 Me interesa todo lo relacionado a **backend, mobile, automatización, IA aplicada**  
-- 🤝 Abierto a colaborar en proyectos web, mobile o sistemas médicos  
+- ⚙️ Backend con **Python, Node/Nest, FastAPI, Django, Golang**  
+- 📊 Testing & Performance: **JMeter, K6, Taurus**  
+- 🚀 Me interesa: backend, mobile, automatización, integraciones con IA, optimización de sistemas  
+- 🤝 Disponible para colaborar en proyectos web, mobile o healthtech  
 
 ---
 
-# 📊 Estadísticas de GitHub
-
-> Reemplaza `TU_USUARIO` por tu usuario de GitHub: **LeandroLG15**
+# 📊 Mis estadísticas de GitHub
 
 ### ⭐ Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=LeandroLG15&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=LeandroGC15&show_icons=true&theme=tokyonight)
 
 ### 🔥 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroLG15&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGC15&layout=compact&theme=tokyonight)
 
 ### ⚡ Racha de contribuciones
-![Streak](https://streak-stats.demolab.com?user=LeandroLG15&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=LeandroGC15&theme=tokyonight)
 
 ---
 
@@ -88,10 +47,3 @@ Actualmente explorando **Golang**, automatización, APIs y arquitectura de softw
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com)  
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com)
 
----
-
-⭐ Si quieres te hago una **versión aún más PRO** con:  
-- Banner personalizado  
-- Sección de proyectos destacados  
-- Badges animados  
-- GitHub Metrics avanzada  
