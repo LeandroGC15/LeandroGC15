@@ -71,4 +71,4 @@ Actualmente aprendiendo **Golang**, arquitectura backend e IA aplicada al desarr
 
 # 🌐 Redes sociales
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/leandro-garcia-82097832b/))
